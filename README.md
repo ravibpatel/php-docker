@@ -5,7 +5,7 @@ This repository contains a Dockerfile to build a PHP CLI environment with additi
 ## Features
 
 - Alpine Linux
-- PHP 8.4, 8.3, 8.2 or 8.1 CLI with GD, Exif, intl, and Zip extensions
+- PHP 8.5, 8.4, 8.3, 8.2 or 8.1 CLI with GD, Exif, intl, and Zip extensions
 - Composer
 - Bash
 - Git
